@@ -1,0 +1,1 @@
+This is Lumi's first git project!
